@@ -1,2 +1,4 @@
 # hello-world
-It's my first GitHub project.
+
+Hi Humans!
+I'm Syed Fahim Ahmed.
